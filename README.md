@@ -1,6 +1,6 @@
 # Games In Python
 
-This repository contains simple Python games to demonstrate basic game development principles. Each game is written using core Python libraries, making them easily accessible for beginner and intermediate programmers.
+This repository contains simple Python games to demonstrate basic game development principles. Each game is written using Python (core and pygame) libraries, making them easily accessible for beginner and intermediate programmers.
 
 ## 1) Hangman
 
