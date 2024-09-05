@@ -2,7 +2,7 @@
 
 This repository contains simple Python games to demonstrate basic game development principles. Each game is written using core Python libraries, making them easily accessible for beginner and intermediate programmers.
 
-## Hangman
+## 1) Hangman
 
 The classic Hangman game where the player has to guess a word by suggesting letters within a limited number of attempts. Each wrong guess adds a part to the hangman drawing. The game ends when the player either guesses the word correctly or runs out of attempts.
 
@@ -12,7 +12,7 @@ The classic Hangman game where the player has to guess a word by suggesting lett
 - With each correct guess, the letter is revealed in its position in the word.
 - For each incorrect guess, the hangman drawing progresses. The game ends when the word is guessed correctly or the drawing is completed.
 
-## Caesar Cipher
+## 2) Caesar Cipher
 This game demonstrates the Caesar Cipher encryption technique. The player can input a message, and the game will encrypt it by shifting each letter a fixed number of places down or up the alphabet. The player can also choose to decrypt an already encrypted message using the same shift value.
 
 ### How to Play:
@@ -22,5 +22,5 @@ This game demonstrates the Caesar Cipher encryption technique. The player can in
 - The game will output the encrypted or decrypted message based on your selection.
 
 
-## Dodger
+## 3) Dodger
 
