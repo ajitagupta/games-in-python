@@ -24,3 +24,4 @@ This game demonstrates the Caesar Cipher encryption technique. The player can in
 
 ## 3) Dodger
 
+Install pygame using '''pip install pygame'''.
