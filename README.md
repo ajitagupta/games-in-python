@@ -23,6 +23,19 @@ This game demonstrates the Caesar Cipher encryption technique. The player can in
 
 
 ## 3) Dodger
+This is a Python-based arcade game built using the Pygame library. The goal of the game is for the player to dodge falling objects ("baddies") for as long as possible, accumulating points by surviving. The game increases in difficulty as time progresses, with faster and more frequent baddies appearing.
 
+### Key Features:
+- Player Controls: Move the player character left or right using the arrow keys to avoid incoming baddies.
+- Baddies: Random-sized and random-speed obstacles ("baddies") fall from the top of the screen.
+- Increasing Difficulty: Baddies progressively increase in speed and frequency.
+- Scoring: The longer you survive, the higher your score. Try to beat the top score!
+- Game Over Screen: When the player is hit by a baddie, the game ends, and the score is displayed.
+
+### How to Play:
+- Press any key to start the game.
+- Use the left and right arrow keys to move the player.
+- Avoid colliding with the falling baddies.
+- Survive as long as possible to achieve the highest score.
 
 To play Dodger you will be needing the Python game library pygame. Install pygame using ```pip install pygame```.
